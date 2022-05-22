@@ -12,14 +12,14 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-light.svg)](#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/youtube-light.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/youtube-dark.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/glebir6#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/glebir6#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/twitter-light.svg)](https://twitter.com/glebir6#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/twitter-dark.svg)](https://twitter.com/glebir6#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/glebi.b#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/glebi.b#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/instagram-light.svg)](https://www.instagram.com/glebi.b#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/instagram-dark.svg)](https://www.instagram.com/glebi.b#gh-dark-mode-only)
 
 ### Languages:
 
