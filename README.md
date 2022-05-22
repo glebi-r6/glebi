@@ -7,7 +7,7 @@
 - I’m looking to collaborate with other content creators
 - Check btw my youtube out: [glebi](https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A)
 
-### Connect with me:
+### Connect me:
 
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-light.svg)](#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-dark.svg)](#gh-dark-mode-only)
@@ -26,6 +26,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
 <br />
 <br />
 
