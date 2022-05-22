@@ -3,9 +3,10 @@
 
 ## I'm a 17 year old Developer
 
-- I’m currently learning everything
-- I’m looking to collaborate with other content creators
-- Check btw my youtube out: [glebi](https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A)
+- 💻 I’m currently learning C#
+- 💬 I’m looking to collaborate with other content creators
+- ✔️ Check btw my youtube out: [glebi](https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A)
+- 📫 How to reach me **glebi#1773**
 
 ### Connect me:
 
