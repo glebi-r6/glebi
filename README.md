@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-light.svg)](#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A#gh-dark-mode-only)
@@ -49,4 +49,3 @@
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A/featured
-[website]: https://codeSTACKr.com
