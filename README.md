@@ -23,6 +23,8 @@
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/instagram-light.svg)](https://www.instagram.com/glebi.b#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/016bde85057b7bf6e3f0930f73542eccee96de26/img/instagram-dark.svg)](https://www.instagram.com/glebi.b#gh-dark-mode-only)
 
+<a href="https://discord.gg/xqpRDHtznw" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/956976561234513990.png"/></a>
+
 ### Languages:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
