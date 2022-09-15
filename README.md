@@ -38,7 +38,7 @@
 ### Latest YouTube Video
 
 <!-- YOUTUBE:START -->
-- [Come Through🚀 - R6 Montage](https://youtu.be/gR1_DfFUgzg)
+- [BLOODPOP 🩸 - Valorant Edit [HD]](https://youtu.be/aA_vxKHmPWM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A/videos)
