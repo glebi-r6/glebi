@@ -38,7 +38,7 @@
 ### Latest YouTube Video
 
 <!-- YOUTUBE:START -->
-- [BLOODPOP 🩸 - Valorant Edit [HD]](https://youtu.be/aA_vxKHmPWM)
+- [I walk this earth all by myself🌎 - R6 Montage [4K]](https://youtu.be/Uk0dNhpjcws&t)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCGRa1XWKhKhBtxx_64n0Y8A/videos)
